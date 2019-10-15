@@ -1,6 +1,5 @@
 NoCTweak: an On-Chip Network Simulator
 
-Written on: 2012/03/25
 By: Anh Tran, UC Davis
 
 Please cite the below paper in your related publications if you find NoCTweak useful to your work (PDF version of the paper is also in the repository):
