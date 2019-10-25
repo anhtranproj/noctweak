@@ -36,7 +36,7 @@ arbitrating policies: round-robin, iSLIP, winner takes all
 	- global clock tree + PLL according to the number of routers
 	- average energy per packet	
 
-Please cite the below paper in your related publications if you find NoCTweak useful to your work (PDF version of the paper is also in the repository):
+Please cite the below paper in your related publications if you find NoCTweak useful to your work (PDF version of the paper is attached in the repository):
 
 Anh Tran and Bevan Baas,
 "NoCTweak: a Highly Parameterizable Simulator for Early Exploration of
